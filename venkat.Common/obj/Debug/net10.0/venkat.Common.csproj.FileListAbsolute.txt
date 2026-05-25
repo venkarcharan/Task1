@@ -1,0 +1,11 @@
+D:\sysfore\venkat.Common\bin\Debug\net10.0\venkat.Common.deps.json
+D:\sysfore\venkat.Common\bin\Debug\net10.0\venkat.Common.dll
+D:\sysfore\venkat.Common\bin\Debug\net10.0\venkat.Common.pdb
+D:\sysfore\venkat.Common\obj\Debug\net10.0\venkat.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\sysfore\venkat.Common\obj\Debug\net10.0\venkat.Common.AssemblyInfoInputs.cache
+D:\sysfore\venkat.Common\obj\Debug\net10.0\venkat.Common.AssemblyInfo.cs
+D:\sysfore\venkat.Common\obj\Debug\net10.0\venkat.Common.csproj.CoreCompileInputs.cache
+D:\sysfore\venkat.Common\obj\Debug\net10.0\venkat.Common.dll
+D:\sysfore\venkat.Common\obj\Debug\net10.0\refint\venkat.Common.dll
+D:\sysfore\venkat.Common\obj\Debug\net10.0\venkat.Common.pdb
+D:\sysfore\venkat.Common\obj\Debug\net10.0\ref\venkat.Common.dll

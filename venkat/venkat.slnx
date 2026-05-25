@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../venkat.Common/venkat.Common.csproj" />
+  <Project Path="../venkat.Data/venkat.Data.csproj" />
+  <Project Path="../venkat.service/venkat.service.csproj" />
+  <Project Path="../venkat.store/venkat.store.csproj" />
+  <Project Path="venkat.API.csproj" />
+</Solution>
