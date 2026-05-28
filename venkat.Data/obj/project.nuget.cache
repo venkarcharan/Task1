@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnKN3YZJ9CU=",
+  "success": true,
+  "projectFilePath": "D:\\sysfore\\venkat.Data\\venkat.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91720\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
